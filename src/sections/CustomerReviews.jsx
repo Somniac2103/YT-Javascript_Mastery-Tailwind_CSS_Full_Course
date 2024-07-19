@@ -1,7 +1,5 @@
-import React from "react";
-
-function CustomerReviews() {
-  return <div></div>;
-}
+const CustomerReviews = () => {
+  return <div>CustomerReviews</div>;
+};
 
 export default CustomerReviews;
